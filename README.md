@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Urologist Healthcare – React Component-Based Application
 
 A beginner-friendly React patient portal made for Experiment 07. The UI follows the urine test strip reader case study and demonstrates JSX, functional components, props, state, event handling, and CSS.
@@ -67,3 +68,6 @@ You can also create a new account from the Sign Up page.
 - The result simulation uses example values for interface demonstration only. These are not real patient readings and must not be used for diagnosis or treatment.
 - Real deployment would require secure server-side authentication, authorization, encrypted storage/transmission, validated device/model integration and clinician review.
 
+=======
+# HealthCare-System_Grp04-React
+>>>>>>> 6b16bb5b602b8cf99fc9050221d9b9382c5383c2
